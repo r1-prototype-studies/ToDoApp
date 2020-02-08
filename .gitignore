@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/ToDoApp/.vs/ToDoApp/v16
+/src/ToDoApp/ToDoApp.Application/bin/Debug/netcoreapp3.0
+/src/ToDoApp/ToDoApp.Application/obj
+/src/ToDoApp/ToDoApp.Domain/bin/Debug/netcoreapp3.0
+/src/ToDoApp/ToDoApp.Domain/obj
+/src/ToDoApp/ToDoApp.Persistance/obj
